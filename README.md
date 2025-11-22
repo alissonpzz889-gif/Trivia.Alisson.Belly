@@ -1,5 +1,5 @@
 # Trivia.Alisson.Belly
-import sys
+
 
 print("=== JOGO DE TRIVIA ===")
 print("Escolha a dificuldade:")
