@@ -36,3 +36,8 @@ perguntas = [
         "opcoes": ["A) Bruce", "B) Marlin", "C) Crush", "D) Dory"],
         "correta": "B"
     },
+     {
+        "pergunta": "Em Toy Story, qual é o melhor amigo do Woody?",
+        "opcoes": ["A) Buzz Lightyear", "B) Sr. Cabeça de Batata", "C) Jessie", "D) Rex"],
+        "correta": "A"
+    },
