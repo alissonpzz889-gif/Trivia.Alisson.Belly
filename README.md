@@ -33,20 +33,9 @@ Além disso, o quiz tem como tema desenhos animados, trazendo perguntas leves e 
 
 <Tema das Perguntas 
 
-As perguntas são baseadas em personagens de:
-
-Bob Esponja
-
-Scooby-Doo
-
-Ben 10
-
-Pokémon
-
-Hora de Aventura
-
-Os Simpsons
-
-Tom & Jerry
-
-E outros clássicos
+Categoria	                   Exemplos incluídos
+🧽 Desenhos clássicos	      Bob Esponja, Tom & Jerry
+👽 Ação e aventura	          Ben 10, Pokémon
+😂 Comédia animada	          Os Simpsons
+⭐ Filmes da Disney	         O Rei Leão, Frozen, Toy Story
+🧡 Desenhos nostálgicos	      Scooby-Doo, Hora de Aventura
