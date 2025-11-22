@@ -66,3 +66,10 @@ for p in perguntas:
         print(opcao)
 
     resposta = input("Digite a letra da resposta: ").upper()
+
+ if resposta == p["correta"]:
+        print("✔️ Correto!")
+        pontos += 1
+    else:
+        print("❌ Errado! A resposta certa era:", p["correta"])
+        erros += 1
