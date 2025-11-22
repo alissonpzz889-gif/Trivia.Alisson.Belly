@@ -77,3 +77,7 @@ for p in perguntas:
 # -----------------------
 # PLACAR FINAL
 # -----------------------
+
+print("\n=== FIM DO JOGO ===")
+print(f"✔️ Acertos: {pontos}")
+print(f"❌ Erros: {erros}")
