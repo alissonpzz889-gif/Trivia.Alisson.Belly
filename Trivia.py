@@ -88,3 +88,6 @@ if pontos == 7:
 
 elif pontos >= 4:
     print("👏 Mandou muito bem! Você realmente assiste muitos desenhos!")
+
+else:
+    print("😂 Ihhh... você precisa assistir mais Disney e desenhos!")
