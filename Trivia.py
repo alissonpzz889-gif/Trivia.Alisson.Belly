@@ -81,3 +81,7 @@ for p in perguntas:
 print("\n=== FIM DO JOGO ===")
 print(f"✔️ Acertos: {pontos}")
 print(f"❌ Erros: {erros}")
+
+# Mensagens finais personalizadas
+if pontos == 7:
+    print("🎉 PERFEITO! Você domina tudo sobre Disney e desenhos!")
