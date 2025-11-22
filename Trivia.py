@@ -21,3 +21,8 @@ perguntas = [
         "opcoes": ["A) Pateta", "B) Pato Donald", "C) Mickey", "D) Minnie"],
         "correta": "C"
     },
+     {
+        "pergunta": "Qual princesa comeu uma maçã envenenada?",
+        "opcoes": ["A) Cinderela", "B) Aurora", "C) Rapunzel", "D) Branca de Neve"],
+        "correta": "D"
+    },
