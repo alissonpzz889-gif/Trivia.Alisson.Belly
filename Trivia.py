@@ -26,3 +26,8 @@ perguntas = [
         "opcoes": ["A) Cinderela", "B) Aurora", "C) Rapunzel", "D) Branca de Neve"],
         "correta": "D"
     },
+     {
+        "pergunta": "Qual desses personagens é o rei leão?",
+        "opcoes": ["A) Timão", "B) Simba", "C) Scar", "D) Zazú"],
+        "correta": "B"
+    },
