@@ -46,3 +46,9 @@ perguntas = [
         "opcoes": ["A) Mulan", "B) Rapunzel", "C) Moana", "D) Ariel"],
         "correta": "B"
     },
+    {
+        "pergunta": "Qual personagem vive em um abacaxi no fundo do mar?",
+        "opcoes": ["A) Bob Esponja", "B) Patrick", "C) Lula Molusco", "D) Sandy"],
+        "correta": "A"
+    }
+]
