@@ -14,3 +14,10 @@ if dificuldade not in ["1", "2", "3"]:
 # -----------------------
 # PERGUNTAS DO JOGO
 # -----------------------
+
+perguntas = [
+    {
+        "pergunta": "Quem é o dono do cachorro Pluto?",
+        "opcoes": ["A) Pateta", "B) Pato Donald", "C) Mickey", "D) Minnie"],
+        "correta": "C"
+    },
