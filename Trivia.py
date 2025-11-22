@@ -67,7 +67,7 @@ for p in perguntas:
 
     resposta = input("Digite a letra da resposta: ").upper()
 
- if resposta == p["correta"]:
+    if resposta == p["correta"]:
         print("✔️ Correto!")
         pontos += 1
     else:
