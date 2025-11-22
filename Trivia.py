@@ -41,3 +41,8 @@ perguntas = [
         "opcoes": ["A) Buzz Lightyear", "B) Sr. Cabeça de Batata", "C) Jessie", "D) Rex"],
         "correta": "A"
     },
+    {
+        "pergunta": "Quem é a princesa que tem uma torre e cabelos longos e mágicos?",
+        "opcoes": ["A) Mulan", "B) Rapunzel", "C) Moana", "D) Ariel"],
+        "correta": "B"
+    },
