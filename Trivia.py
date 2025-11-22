@@ -10,3 +10,7 @@ dificuldade = input("Digite o número da dificuldade: ")
 if dificuldade not in ["1", "2", "3"]:
     print("Dificuldade inválida. Vamos jogar no nível Fácil!\n")
     dificuldade = "1"
+
+# -----------------------
+# PERGUNTAS DO JOGO
+# -----------------------
