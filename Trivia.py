@@ -31,3 +31,8 @@ perguntas = [
         "opcoes": ["A) Timão", "B) Simba", "C) Scar", "D) Zazú"],
         "correta": "B"
     },
+     {
+        "pergunta": "Qual é o peixe-palhaço em Procurando Nemo?",
+        "opcoes": ["A) Bruce", "B) Marlin", "C) Crush", "D) Dory"],
+        "correta": "B"
+    },
