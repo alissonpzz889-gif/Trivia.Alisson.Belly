@@ -56,3 +56,13 @@ perguntas = [
 # -----------------------
 # LÓGICA DO JOGO
 # -----------------------
+
+pontos = 0
+erros = 0
+
+for p in perguntas:
+    print("\n" + p["pergunta"])
+    for opcao in p["opcoes"]:
+        print(opcao)
+
+    resposta = input("Digite a letra da resposta: ").upper()
