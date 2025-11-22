@@ -85,3 +85,6 @@ print(f"❌ Erros: {erros}")
 # Mensagens finais personalizadas
 if pontos == 7:
     print("🎉 PERFEITO! Você domina tudo sobre Disney e desenhos!")
+
+elif pontos >= 4:
+    print("👏 Mandou muito bem! Você realmente assiste muitos desenhos!")
