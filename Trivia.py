@@ -73,3 +73,7 @@ for p in perguntas:
     else:
         print("❌ Errado! A resposta certa era:", p["correta"])
         erros += 1
+
+# -----------------------
+# PLACAR FINAL
+# -----------------------
